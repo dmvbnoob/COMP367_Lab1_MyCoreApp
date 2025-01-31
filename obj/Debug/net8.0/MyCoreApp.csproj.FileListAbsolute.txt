@@ -28,3 +28,4 @@ C:\Mac\Home\Documents\COMP367\COMP367_Lab1_MyCoreApp\MyCoreApp\obj\Debug\net8.0\
 C:\Mac\Home\Documents\COMP367\COMP367_Lab1_MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 C:\Mac\Home\Documents\COMP367\COMP367_Lab1_MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\Mac\Home\Documents\COMP367\COMP367_Lab1_MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+C:\Mac\Home\Documents\COMP367\COMP367_Lab1_MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
